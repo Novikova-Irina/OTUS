@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7544261e-f616-49c1-8e2b-1f0e65beb1ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/try.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="bda1ca66-a8fd-4f7a-b31c-bfac18ca4c6b" />
+  </component>
+  <component name="ProjectId" id="1ij4rHD9z8iliHAGtGbFklpA5AI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in tests">
+    <configuration name="pytest for test_dict.TestClassDict" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OTUS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dict.TestClassDict&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_dict.TestClassDict.test_check_if_dict_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OTUS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dict.TestClassDict.test_check_if_dict_empty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_dict.TestClassDict.test_insert_data_in_dict" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OTUS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dict.TestClassDict.test_insert_data_in_dict&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_list.TestClassList.test_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OTUS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_list.TestClassList.test_one&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="OTUS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson_2/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in tests" />
+        <item itemvalue="Python tests.pytest for test_list.TestClassList.test_one" />
+        <item itemvalue="Python tests.pytest for test_dict.TestClassDict" />
+        <item itemvalue="Python tests.pytest for test_dict.TestClassDict.test_insert_data_in_dict" />
+        <item itemvalue="Python tests.pytest for test_dict.TestClassDict.test_check_if_dict_empty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\novikova-i\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7544261e-f616-49c1-8e2b-1f0e65beb1ab" name="Default Changelist" comment="" />
+      <created>1602407868030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602407868030</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test commit lesson 1">
+      <created>1602410127987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602410127987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit lesson 1">
+      <created>1602439379787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602439379787</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test commit lesson 1">
+      <created>1602439718572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602439718572</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test commit lesson 1">
+      <created>1602439747380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602439747380</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test commit lesson 1">
+      <created>1602440069854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602440069854</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test commit lesson 1">
+      <created>1602440098208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602440098208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 2: &quot;Введение в Pytest&quot;">
+      <created>1602624084935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602624084935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit lesson 1" />
+    <MESSAGE value="lesson 2: &quot;Введение в Pytest&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2: &quot;Введение в Pytest&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602442002792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602442002792" />
+    <state x="613" y="113" key="CommitChangelistDialog2" timestamp="1602624082567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602624082567" />
+    <state x="739" y="260" key="FileChooserDialogImpl" timestamp="1602441832219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602441832219" />
+    <state x="829" y="412" key="Github.ShareDialog" timestamp="1602410103501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="412" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602410103501" />
+    <state width="1672" height="425" key="GridCell.Tab.0.bottom" timestamp="1602624425490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1672" height="425" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602624425490" />
+    <state width="1672" height="425" key="GridCell.Tab.0.center" timestamp="1602624425490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1672" height="425" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602624425490" />
+    <state width="1672" height="425" key="GridCell.Tab.0.left" timestamp="1602624425490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1672" height="425" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602624425490" />
+    <state width="1672" height="425" key="GridCell.Tab.0.right" timestamp="1602624425490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1672" height="425" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602624425490" />
+    <state width="948" height="426" key="GridCell.Tab.1.bottom" timestamp="1602578774030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="426" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602578774030" />
+    <state width="948" height="426" key="GridCell.Tab.1.center" timestamp="1602578774029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="426" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602578774029" />
+    <state width="948" height="426" key="GridCell.Tab.1.left" timestamp="1602578774029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="426" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602578774029" />
+    <state width="948" height="426" key="GridCell.Tab.1.right" timestamp="1602578774030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="426" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602578774030" />
+    <state x="183" y="85" key="MergeDialog" timestamp="1602624203487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602624203487" />
+    <state x="597" y="280" key="MultipleFileMergeDialog" timestamp="1602624217832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602624217832" />
+    <state x="460" y="161" key="SettingsEditor" timestamp="1602482048965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602482048965" />
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1602409014115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602409014115" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602624127756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602624127756" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1602409605372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602409605372" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602411695964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602411695964" />
+    <state x="860" y="252" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602409838138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="860" y="252" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602409838138" />
+    <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602441489873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602441489873" />
+    <state x="750" y="380" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602441968722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="380" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602441968722" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602624251051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602624251051" />
+    <state x="789" y="310" key="svn.repositoryBrowser" timestamp="1602410074107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1602410074107" />
+  </component>
+</project>
